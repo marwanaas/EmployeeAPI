@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\EmployeeWebAPI\EmployeeAPI.Models\bin\Debug\netstandard2.0\EmployeeAPI.Models.deps.json
+C:\Users\USER\source\repos\EmployeeWebAPI\EmployeeAPI.Models\bin\Debug\netstandard2.0\EmployeeAPI.Models.dll
+C:\Users\USER\source\repos\EmployeeWebAPI\EmployeeAPI.Models\obj\Debug\netstandard2.0\EmployeeAPI.Models.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\EmployeeWebAPI\EmployeeAPI.Models\obj\Debug\netstandard2.0\EmployeeAPI.Models.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\EmployeeWebAPI\EmployeeAPI.Models\obj\Debug\netstandard2.0\EmployeeAPI.Models.AssemblyInfo.cs
+C:\Users\USER\source\repos\EmployeeWebAPI\EmployeeAPI.Models\bin\Debug\netstandard2.0\EmployeeAPI.Models.pdb
+C:\Users\USER\source\repos\EmployeeWebAPI\EmployeeAPI.Models\obj\Debug\netstandard2.0\EmployeeAPI.Models.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\EmployeeWebAPI\EmployeeAPI.Models\obj\Debug\netstandard2.0\EmployeeAPI.Models.dll
+C:\Users\USER\source\repos\EmployeeWebAPI\EmployeeAPI.Models\obj\Debug\netstandard2.0\EmployeeAPI.Models.pdb
